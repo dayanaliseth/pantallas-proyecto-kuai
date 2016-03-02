@@ -1,0 +1,157 @@
+body{
+		background-image: url('../image/Vista_Black_and_White_by_VistaDude_1600x900.jpg');
+	}
+
+	#container, header, nav,footer, #login2
+	{
+		border-radius: 10px;
+		min-width: 1000px;
+	}
+
+	#container{
+		width: 90%;
+		background: rgba(0,0,0,.7);
+		margin: auto;
+		padding: 20px;
+	}
+
+	header
+	{
+		background-image: url('../image/diseno-de-fondos-blanco-1851.jpg');
+		margin-bottom: 10px;
+
+	}
+
+	header h1
+	{
+		text-align: center;
+		padding: 10px 5px;
+		margin: 0px;
+	}
+
+	nav{
+		background: #D8D8D8;
+		margin-bottom: 10px;
+		text-align: center;
+	}
+
+
+	section{
+		background: #fff;
+		float: left;
+		width: 100%;
+		margin-bottom: 10px;
+		border-radius: 10px 10px 10px 10px;
+	}
+
+	article{
+		margin: 20px;
+	}
+
+	#login{
+		width: 100%;
+		border-radius: 10px;
+	}
+
+	footer{
+		height: 20px;
+		background: #D8D8D8;
+		clear: both;
+	}
+	#login2{
+		background: #01DFD7;
+		width: 30%;
+		margin: 10px auto;
+		padding: 10px;
+	}
+
+	nav ul
+	{
+		margin: 5px 10px;
+	}
+
+	nav ul li
+	{
+		display: inline-block;
+		padding: 5px 2px;
+	}
+
+	a
+	{
+		text-decoration: none;
+		color: #000;
+	}
+
+
+	nav ul li:hover
+	{
+		background: #fff;
+	}
+
+	table, td
+	{
+		border:2px black solid;
+		text-align: center;
+	}
+
+	table{
+		margin: auto;
+	}
+
+	figure img
+	{
+		max-width: 100%;
+		height: auto;
+		float: left;
+		min-width: 20%;
+		max-width: 80%;
+	}
+
+	footer 
+	{
+		text-align: center;
+	}
+
+	p
+	{
+		text-align: justify;
+	}
+
+	.boton
+	{
+		text-align: center;
+	}
+
+	.boton2
+	{
+		text-align: center;
+	}
+
+	.tabla1
+	{
+		background: #F2F2F2;
+	}
+
+	.tabla2
+	{
+		background: #CEF6F5;
+	}
+
+	.tabla3
+	{
+		background: #F2F2F2;
+	}
+	.tabla4
+	{
+		background: #CEF6F5;
+	}
+
+    .boton3
+    {
+    	text-align: center;
+    }
+
+    h4
+    {
+    	text-align: center;
+    }
